@@ -6,7 +6,7 @@ I'm a Full Stack Developer and an aspiring Cloud Engineer.
 
 [![Twitter Badge](https://img.shields.io/badge/-@koutoua1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/koutoua1)
 [![Linkedin Badge](https://img.shields.io/badge/-PaulChristian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.cn/incareer/in/ACoAACDbh-wB4rxo5Z4Uj9FUq7Lp2x43DQq-QG8)
-[![Instagram Badge](https://img.shields.io/badge/-@Christian-Paul-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/eni4sure)
+[![Instagram Badge](https://img.shields.io/badge/-@ChristianPaul-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/eni4sure)
 
 
 #### Top Technologies and Stack 🔭⚡️🌱
