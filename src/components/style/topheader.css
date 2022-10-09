@@ -1,0 +1,20 @@
+.page-header {
+  /*https://images.unsplash.com/photo-1565728744382-61accd4aa148?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80
+   https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80*/
+  /* linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), */
+  text-shadow: 2px 0.5px rgba(10, 10, 10, 0.5);
+  background: url("https://images.unsplash.com/photo-1565728744382-61accd4aa148?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80") fixed no-repeat top;
+  background-size: cover;
+  /* background-color: #000; */
+}
+
+.page-header div {
+  -webkit-backdrop-filter: blur(1px);
+          backdrop-filter: blur(1px);
+}
+
+.btn-prim {
+  color: #212529;
+  background-color: #FDAC53;
+  border-color: #FDAC53;
+}/*# sourceMappingURL=topheader.css.map */
