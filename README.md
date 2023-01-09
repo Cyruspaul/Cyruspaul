@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Christian Koutoua ( Cyrus Paul )
+### Hi there 👋, I'm Christian Paul ( Cyrus Paul )
 
 I'm a Full Stack Developer and an aspiring Cloud Engineer.
 
